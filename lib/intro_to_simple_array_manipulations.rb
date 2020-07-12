@@ -24,6 +24,6 @@ def using_delete(array, element)
 end 
 
 
-def using_delete_at(array,int)
+def using_delete_at(array, int)
   new_arr =array.delete(int)
 end
